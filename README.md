@@ -1,7 +1,7 @@
 # RivulEd Utilities
 
 This is a collection of Jupyter notebooks designed to serve as utilities that help 
-educators identify and download pedagogically useful "rivulets" of data from large, 
+educators identify and download pedagogically useful *rivulets* of data from large, 
 public data streams. 
 
 ## About RivulEd
