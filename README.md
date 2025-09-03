@@ -4,13 +4,14 @@ This is a collection of Jupyter notebooks designed to help educators and educati
 desingers find and download pedagogically useful subsets of data from large, 
 public data streams. 
 
-## About RivulEd
+## About Rivulet
 
 The name *Rivulet*, indicating a small stream, of course is meant to refer to a small
-bit of larger available data streams. It's also a nod to Tim Erickson's idea of being
-[Awash in Data](https://codap.xyz/awash/), and an acknowledgement that while there are 
-some powerful [Oceans of Data](https://oceansofdata.org/) out there, finding one that's 
-manageable, interesting, and ready to use can be difficult or even overwhelming.
+but dynamic bit of larger available data streams. It's also a nod to Tim Erickson's 
+idea of being [Awash in Data](https://codap.xyz/awash/), and an acknowledgement that 
+while there are some powerful [Oceans of Data](https://oceansofdata.org/) out there, 
+finding one that's manageable, interesting, and ready to use can be difficult or 
+even overwhelming.
 
 These utilities are designed to highlight some features of datasets from particular 
 domains that make them particularly intriguing and pedagogically productive, help
