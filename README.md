@@ -1,3 +1,5 @@
+![Rivulet icon](rivulet.png)
+
 # Rivulet: Python Notebook Utilities for Pedagogically Useful Datasets
 
 This is a collection of Jupyter notebooks designed to help educators and educational
