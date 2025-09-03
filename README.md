@@ -1,16 +1,16 @@
-# RivulEd Utilities
+# Rivulet: Python Notebook Utilities for Pedagogically Useful Datasets
 
-This is a collection of Jupyter notebooks designed to serve as utilities that help 
-educators identify and download pedagogically useful subsets of data from large, 
+This is a collection of Jupyter notebooks designed to help educators and educational
+desingers find and download pedagogically useful subsets of data from large, 
 public data streams. 
 
 ## About RivulEd
 
-The name *RivulEd* is a play on the word _rivulet_, indicating a small stream, combined 
-with _Ed_ for _education_. It's a nod to Tim Erickson's idea of students being
+The name *Rivulet*, indicating a small stream, of course is meant to refer to a small
+bit of larger available data streams. It's also a nod to Tim Erickson's idea of being
 [Awash in Data](https://codap.xyz/awash/), and an acknowledgement that while there are 
 some powerful [Oceans of Data](https://oceansofdata.org/) out there, finding one that's 
-manageable, interesting, and ready to use can be difficult.
+manageable, interesting, and ready to use can be difficult or even overwhelming.
 
 These utilities are designed to highlight some features of datasets from particular 
 domains that make them particularly intriguing and pedagogically productive, help
