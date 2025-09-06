@@ -13,9 +13,10 @@ These utilities are designed for educators who want to use fresh, relevant data 
 classrooms but may find searching large public data streams overwhelming. Rivulet 
 helps you access and assess subsets of data that are local, timely, or otherwise 
 relevant to your students. Importantly, it does this in a way that also centers 
-pedagogical utility by selecting for key characteristics of datasets that are known 
-to be pedagogically generative. Along the way, the notebooks gently introduce 
-geberal techniques and skills related to fetching data using APIs and Python. 
+pedagogical utility by selecting for key statistical and/or scientific characteristics 
+of datasets that are known to be pedagogically generative, depending on the topic. 
+Along the way, the notebooks gently introduce general techniques and skills related 
+to fetching data using APIs and Python. 
 
 The name *Rivulet*—a small stream—refers to the goal of curating manageable, dynamic 
 samples from larger data streams. It's also a nod to Tim Erickson's idea of being 
