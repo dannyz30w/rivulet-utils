@@ -7,7 +7,7 @@ and download pedagogically useful subsets of data from large, public data stream
 The notebooks emphasize finding datasets with complex patterns that can be explored 
 using agent-based models.
 
-Our goal is to help educators find data that is **personally, statistically, *and* topically** relevant.
+Our goal is to help educators find data that is **personally, statistically, *and* topically** interesting.
 
 ## About Rivulet
 
