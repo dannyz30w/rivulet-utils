@@ -7,14 +7,18 @@ and download pedagogically useful subsets of data from large, public data stream
 The notebooks emphasize finding datasets with complex patterns that can be explored 
 using agent-based models.
 
+Our goal is to help educators find data that is **personally, statistically, *and* topically** relevant.
+
 ## About Rivulet
 
 These utilities are designed for educators who want to use fresh, relevant data in 
-classrooms but may find searching large public data streams overwhelming. Rivulet 
+classrooms but may find searching large public data streams overwhelming. 
+Rivulet 
 helps you access and assess subsets of data that are local, timely, or otherwise 
-relevant to your students. Importantly, it does this in a way that also centers 
-pedagogical utility by selecting for key statistical and/or scientific characteristics 
-of datasets that are known to be pedagogically generative, depending on the topic. 
+relevant to your students. 
+Importantly, it does this in a way that guides users 
+toward data that exhibit key statistical and domain-specific characteristics 
+that are known to be pedagogically generative. 
 Along the way, the notebooks gently introduce general techniques and skills related 
 to fetching data using APIs and Python. 
 
